@@ -1,0 +1,3 @@
+[submodule "tgl-signature"]
+	path = tgl-signature
+	url = https://github.com/uccmen/tgl-signature.git
