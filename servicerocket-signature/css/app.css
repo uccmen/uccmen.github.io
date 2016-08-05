@@ -1,0 +1,16 @@
+.description {
+  display: inline-block;
+  padding-left: 0.5em;
+  border-left-style: solid;
+  border-left-width: 0.13em;
+}
+
+.servicerocket-logo {
+  float: left;
+  padding-right: 0.5em;
+}
+
+.name,
+.position-title {
+  font-weight: bold;
+}
