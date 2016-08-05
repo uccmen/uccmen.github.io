@@ -6,7 +6,7 @@
 }
 
 .servicerocket-logo {
-  float: left;
+  vertical-align: top;
   padding-right: 0.5em;
 }
 
