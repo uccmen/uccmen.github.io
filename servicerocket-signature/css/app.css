@@ -5,6 +5,10 @@
   border-left-width: 0.13em;
 }
 
+.signature a {
+  text-decoration: none;
+}
+
 .servicerocket-logo {
   vertical-align: top;
   padding-right: 0.5em;
