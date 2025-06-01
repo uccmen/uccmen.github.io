@@ -1,0 +1,15 @@
+.signature dl {
+  margin: 0;
+}
+
+.title {
+  color: red;
+  display: inline-block;
+  min-width: 5em;
+}
+
+.tel {
+  color: blue;
+  display: inline-block;
+  text-decoration: underline;
+}
